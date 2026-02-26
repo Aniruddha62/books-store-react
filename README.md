@@ -30,4 +30,29 @@ It demonstrates understanding of modern React development using functional compo
 
 ---
 
-## Project Structure
+
+---
+
+## Learning Outcome
+
+While building this project, I focused on:
+
+- Structuring React components properly
+- Understanding TypeScript usage in React
+- Managing project configuration with Vite
+- Writing cleaner and maintainable frontend code
+
+---
+
+## Future Improvements
+
+- Adding cart functionality
+- Integrating backend APIs
+- Implementing search and filtering
+- Adding user authentication
+
+---
+
+## Author
+
+ANIRUDDHA BHATTACHARYYA
