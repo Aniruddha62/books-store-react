@@ -8,8 +8,6 @@ The goal of this project was to practice building a structured React application
 
 It demonstrates understanding of modern React development using functional components and TypeScript for better type safety.
 
----
-
 ## Features
 
 - Component-based architecture
@@ -19,19 +17,12 @@ It demonstrates understanding of modern React development using functional compo
 - TypeScript integration
 - ESLint configuration for code quality
 
----
-
 ## Tech Stack
 
 - React 18
 - TypeScript
 - Vite
 - ESLint
-
----
-
-
----
 
 ## Learning Outcome
 
@@ -42,8 +33,6 @@ While building this project, I focused on:
 - Managing project configuration with Vite
 - Writing cleaner and maintainable frontend code
 
----
-
 ## Future Improvements
 
 - Adding cart functionality
@@ -51,8 +40,6 @@ While building this project, I focused on:
 - Implementing search and filtering
 - Adding user authentication
 
----
+## 👨‍💻 Author
 
-## Author
-
-ANIRUDDHA BHATTACHARYYA
+**ANIRUDDHA BHATTACHARYYA**
